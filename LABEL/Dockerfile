@@ -1,3 +1,3 @@
 FROM almalinux:9
-LABLE course="docker" \
+LABEL course="docker" \
       trainer="saikiran"
