@@ -4,3 +4,5 @@ ENV COURSE="docker" \
     DURATION="10HRS"
 CMD ["sleep","1000"]
 
+
+
